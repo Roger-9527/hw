@@ -1,3 +1,0 @@
-print("test");
-var x: int = 5;
-print(x);
