@@ -3,8 +3,8 @@
 欄位 | 內容
 -----|--------
 學期 | 114 學年下學期
-學生 |  羅詩喬
-學號末兩碼 | 01
+學生 |  李旻謙
+學號末兩碼 | 02
 教師 | [陳鍾誠](https://www.nqu.edu.tw/educsie/index.php?act=blog&code=list&ids=4)
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc114b/cpu2os
